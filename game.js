@@ -5,7 +5,7 @@ window.onload = function() {
     type: Phaser.AUTO,
     width: 656,
     height: 323,
-    maxHeight: 960,
+    maxHeight: 540,
     parent: 'phaser-game',
     scale: {
     	mode: Phaser.Scale.FIT,
